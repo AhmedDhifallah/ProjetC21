@@ -1,0 +1,5 @@
+97263395 ;qsd ;qsdsqd ;Homme ;nutritioniste ;0 ;2 ;2 ;2000 
+97350114 ;aze ;qsdsq ;Femme ;etudiant ;5 ;4 ;3 ;1992 
+14259086 ;kenza ;toukabri ;Femme ;etudiant ;3 ;11 ;12 ;1998 
+97350000 ;qsdqs ;qsqsdsqd ;Homme ;etudiant ;5 ;1 ;1 ;1992 
+14259087 ;salah ;mnoai ;Femme ;etudiant ;4 ;1 ;1 ;1992 
